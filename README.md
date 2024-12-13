@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viggo</h1>
-<h3 align="center">A passionate newbie developer from Sweden</h3>
+<h3 align="center">A passionate developer from Sweden</h3>
 
 <p
  align="left"> <img 
@@ -10,11 +10,9 @@ src="https://komarev.com/ghpvc/?username=viggalm&label=Profile%20views&color=0e7
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **anything relating intermediate rust!**
+- 👯 I’m looking to collaborate on **anything relating rust!**
 
 - 📫 How to reach me **ViggAlm@gmail.com**
-
-- ⚡ Fun fact **Grand Admiral Thrawn's name is Mitth'raw'nuruodo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
